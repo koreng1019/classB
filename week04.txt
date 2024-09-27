@@ -4,3 +4,7 @@
 - Go 환경 셋업
  Go 컴파일러 설치
  VSC 셋업
+ 확장 플러그인 설치, Go도구 업데이트
+ go mod init sample
+ cd sample
+- conflict 트러블 슈팅
